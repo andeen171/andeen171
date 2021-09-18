@@ -21,5 +21,7 @@
  ### Find me on Linkedin
   
 <div>
-  <img align="center" alt="Linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  <a href="https://www.linkedin.com/in/anderson-lopes-9044331a1/">
+   <img align="center" alt="Linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a>
 </div>
