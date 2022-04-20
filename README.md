@@ -1,13 +1,14 @@
  <div>
   <a href="https://github.com/andeen171">
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=andeen171&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeen171&theme=dark&layout=compact"/>
+  <img height="195px" align="top" src="https://github-readme-stats.vercel.app/api?username=andeen171&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="195px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@andeen171&layout=compact&theme=dark&langs_count=8"/>
+ </a>
 </div>
   <br>
 
 ### Languages and Frameworks:
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
