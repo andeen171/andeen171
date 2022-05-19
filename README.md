@@ -2,7 +2,8 @@
   <a href="https://github.com/andeen171">
   <img height="190px" width="490px" align="center" src="https://github-readme-stats.vercel.app/api?username=andeen171&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="190px" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andeen171&layout=compact&theme=dark&langs_count=8"/>
-   <img height="190px" width="500px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andeen171&layout=compact&theme=dark&langs_count=8"/>
+   <br>
+   <img height="185px" width="490px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andeen171&layout=compact&theme=dark&langs_count=8"/>
  </a>
 </div>
   <br>
