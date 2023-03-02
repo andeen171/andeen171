@@ -1,10 +1,11 @@
  <div>
   <a href="https://github.com/andeen171">
-  <img height="190px" width="490px" align="center" src="https://github-readme-stats-andeen171.vercel.app/api?username=andeen171&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true"/>
-   <img height="190px" width="350px" align="center" src="https://github-readme-stats-andeen171.vercel.app/api/top-langs?username=andeen171&layout=compact&theme=catppuccin&langs_count=8"/>
+  <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api?username=andeen171&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true"/>
  </a>
- <img height="185px" width="490px" align="top" src="https://github-readme-stats-andeen171.vercel.app/api/wakatime?username=andeen171&layout=compact&theme=catppuccin&langs_count=8"/>
- <img height="185px" width="350px" align="center" src="https://cdn.discordapp.com/attachments/902981234618167356/976816999135068230/4828480a6d11e580a7e814fdd2d50d5f_2.gif" />
+ <img height="195px" width="328px" align="top" src="https://cdn.discordapp.com/attachments/902981234618167356/976816999135068230/4828480a6d11e580a7e814fdd2d50d5f_2.gif" />
+ <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api/wakatime?username=andeen171&layout=compact&theme=catppuccin&langs_count=8"/>
+ <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api/top-langs?username=andeen171&layout=compact&theme=catppuccin&langs_count=8"/>
+ 
 </div>
   <br>
 
