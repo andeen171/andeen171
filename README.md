@@ -30,7 +30,7 @@
  ### Find me on Linkedin
   
 <div>
-  <a href="https://www.linkedin.com/in/anderson-lopes-9044331a1/" target="_blank">
+  <a href="https://www.linkedin.com/in/andeen171/" target="_blank">
    <img align="center" alt="Linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
 </div>
