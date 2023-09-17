@@ -13,35 +13,89 @@
 ### Languages and Tools I work with:
 
 <div>
-  <img align="center" alt="typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="react" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="vuejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="nextjs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="fastapi" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="pytorch" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" alt="typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img align="center" alt="react" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img align="center" alt="vuejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img align="center" alt="nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img align="center" alt="nextjs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img align="center" alt="python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img align="center" alt="django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img align="center" alt="fastapi" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img align="center" alt="pytorch" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  </a>
 <br><br>
-  <img align="center" alt="rust" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-  <img align="center" alt="go" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="lua" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="center" alt="postgresql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="mongodb" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="redis" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img align="center" alt="rust" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  </a>
+  <a href="https://golang.org/" target="_blank">
+    <img align="center" alt="go" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img align="center" alt="php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img align="center" alt="laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  </a>
+  <a href="https://www.lua.org/" target="_blank">
+    <img align="center" alt="lua" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img align="center" alt="postgresql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img align="center" alt="mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img align="center" alt="mongodb" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img align="center" alt="redis" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  </a>
 <br><br>
-  <img align="center" alt="aws" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="googlecloud" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="azure" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="grafana" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-  <img align="center" alt="kafka" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="prometheus" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
-  <img align="center" alt="graphql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="kubernetes" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img align="center" alt="aws" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img align="center" alt="googlecloud" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img align="center" alt="azure" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img align="center" alt="grafana" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img align="center" alt="kafka" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img align="center" alt="prometheus" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img align="center" alt="graphql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img align="center" alt="docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img align="center" alt="kubernetes" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  </a>
 </div>
  
  ### Find me on other platforms
