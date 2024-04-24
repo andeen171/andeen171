@@ -2,11 +2,7 @@
   <a href="https://github.com/andeen171">
   <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api?username=andeen171&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true"/>
  </a>
- <img height="195px" width="328px" align="top" src="https://cdn.discordapp.com/attachments/902981234618167356/976816999135068230/4828480a6d11e580a7e814fdd2d50d5f_2.gif" />
- <a href="https://wakatime.com/@andeen171" target="_blank">
-  <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api/wakatime?username=andeen171&layout=compact&theme=catppuccin&langs_count=8"/>
- <a/>
- <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api/top-langs?username=andeen171&layout=compact&theme=catppuccin&langs_count=8"/>
+  <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api/top-langs?username=andeen171&layout=compact&theme=catppuccin&langs_count=8"/>
 </div>
 <br>
 
@@ -42,7 +38,7 @@
   </a>
 <br><br>
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img align="center" alt="rust" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+    <img align="center" alt="rust" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   </a>
   <a href="https://golang.org/" target="_blank">
     <img align="center" alt="go" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
@@ -51,7 +47,7 @@
     <img align="center" alt="php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img align="center" alt="laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   </a>
   <a href="https://www.lua.org/" target="_blank">
     <img align="center" alt="lua" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
@@ -70,7 +66,7 @@
   </a>
 <br><br>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img align="center" alt="aws" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="aws" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   </a>
   <a href="https://cloud.google.com/" target="_blank">
     <img align="center" alt="googlecloud" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
