@@ -97,7 +97,7 @@
  ### Find me on other platforms
   
 <div>
-  <a href="https://www.linkedin.com/in/andeen171/" target="_blank">
+  <a href="https://www.linkedin.com/in/anderson-lopes-dev/" target="_blank">
    <img align="center" alt="linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   <a href="https://gitlab.com/andeen171" target="_blank">
